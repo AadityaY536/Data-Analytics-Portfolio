@@ -8,3 +8,4 @@ Welcome! This portfolio showcases my beginner-to-intermediate projects in data a
 - **Sales Dashboard (Tableau):** Built an interactive dashboard to track KPIs like revenue and customer growth.
 
 Each folder contains the project files and a README with details.
+aditya
